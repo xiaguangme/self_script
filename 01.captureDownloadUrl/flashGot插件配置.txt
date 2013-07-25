@@ -1,0 +1,1 @@
+/c D:\600.self\05.code\03.script\self_script\01.captureDownloadUrl\capture.bat [URL ] [REFERER]
